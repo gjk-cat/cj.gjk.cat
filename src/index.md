@@ -1,4 +1,3 @@
-
 <p style="text-align:center"><img src="img/cat.png"></p>
 
 # GJK Cat Čeština - Repozitář studijních materiálů
