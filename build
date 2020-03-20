@@ -10,6 +10,8 @@ cargo install mdbook-cat-prep
 # reclone required because we need git
 git clone https://github.com/gjk-cat/cj.gjk.cat
 
-cd it.gjk.cat
+cd cj.gjk.cat
 
 mdbook build
+
+cp -r book ../book
