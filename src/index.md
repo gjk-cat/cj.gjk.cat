@@ -14,6 +14,5 @@ Pokud je neznáte, navštivte <https://gjk.cat>.
 
 ## Kontakt
 Tuto wiki spravuje [_Lukáš Hozda_](mailto:luk.hozda@gmail.com).
-Pro více kontaktních informací viz sekce [Kontakt & Podpora](/kontakt.md).
+Pro více kontaktních informací navštivte mojí kartu učitele.
 
-<div style="opacity: 0.2">
